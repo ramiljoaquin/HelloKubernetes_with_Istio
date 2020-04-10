@@ -1,4 +1,11 @@
-# HelloKubernetes_with_Istio
+# Hello Kubernetes with Istio
+
+
+![Kube architecture][logo]
+
+[logo]: https://github.com/ramiljoaquin/HelloKubernetes_AKS/blob/master/assets/KubeArchitecture.png "Kubernetes architecture"
+
+
 
 Istio lets you manage, secure, and observe the communication between distributed software components. Learn how the service mesh architecture builds on Docker and Kubernetes to provide seamless control over how your services talk to each other.
 
